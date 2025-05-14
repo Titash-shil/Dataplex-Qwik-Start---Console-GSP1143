@@ -11,11 +11,11 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Implement-CI-CD-Pipelines-on-Google-Cloud-Challenge-Lab-GSP393-Updated/refs/heads/main/qwiklab_explorers_gsp393.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Dataplex-Qwik-Start---Console-GSP1143/refs/heads/main/qwiklab_explorers_gsp1143.sh
 
-sudo chmod +x qwiklab_explorers_gsp393.sh
+sudo chmod +x qwiklab_explorers_gsp1143.sh
 
-./qwiklab_explorers_gsp393.sh
+./qwiklab_explorers_gsp1143.sh
 ```
 
 ---
